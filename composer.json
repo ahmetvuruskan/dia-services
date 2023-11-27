@@ -1,0 +1,17 @@
+{
+    "name": "ahmetvuruskan/dia",
+    "autoload": {
+        "psr-4": {
+            "Ahmet\\Dia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmetvuruskan",
+            "email": "ahmetvrskn@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
